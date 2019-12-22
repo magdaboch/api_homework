@@ -53,7 +53,7 @@ def create_currency_files(dict_currencies_with_countries, target_path =''):
     """
     Function creates the files, which name is code of currency and content are countries.
     :param dict_currencies_with_countries:
-    :param target_path: 
+    :param target_path:
     :return:
     """
     for currency in dict_currencies_with_countries:
